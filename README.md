@@ -38,7 +38,7 @@ When I'm not coding, making music, or playing basketball, I love to draw and bri
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oc_tripp/)
 
-![GIF](https://giphy.com/gifs/adweek-nope-journalist-yellowstone-Ze4BXdrjDjygM9Piq0)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTB3amd4NG5pZGJmbTZzand6dmRuaWhma3hjNmJxbGQ5ZmZ2OHhybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ze4BXdrjDjygM9Piq0/giphy.gif)
 
 
 <!--
