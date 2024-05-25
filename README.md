@@ -23,6 +23,7 @@ I'm a **Front-End Developer** currently exploring and on my way to specializing 
 -  [Static Consultancy website for client][(https://github.com/Tripp808/Konnect_africa-website)]: Built a static consultancy website for a friend using HTML, CSS and Vanilla JS.
 -  [Indie-Slide Music Analytics prototype app][(https://github.com/Tripp808/Indie-Slide-webapp)]: Prototype Music analytics app built with React, Material UI, firebase for authentication ... to monitor my streaming and royalties across multiple music DSP's including Spotify, Apple Music, YouTube. This ensures fair recompense for all my artistic work. It isn't complete yet but looking good so far.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Tripp808&color=blue)
 ### 📈 GitHub Stats
 ![Tripp808's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tripp808&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tripp808&layout=compact&theme=radical)
