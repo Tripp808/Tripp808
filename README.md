@@ -5,7 +5,7 @@
 I'm a **Front-End Developer** currently exploring and on my way to specializing in **Machine Learning and AI Software Engineering**. I enjoy creating visually appealing and user-friendly interfaces, I'm on a journey to combine my love for front-end development with the power of artificial intelligence.
 
 ### 🌟 About Me
-- 🎵 **Musician and Producer**: I create music that connects with the soul. Check out my music n [YouTube](https://www.youtube.com/channel/UCxSOEvKtcbEzrCMUft-_fGg).
+- 🎵 **Musician and Producer**: I create music that connects with the soul. Check out my music on [YouTube](https://www.youtube.com/channel/UCxSOEvKtcbEzrCMUft-_fGg).
 - 🏀 **Basketball Enthusiast**: When I'm not coding, i'm hitting jumpers and snatching ankles on the basketball court. haha
 - 🎨 **Illustrator**: I express my creativity through drawing illustrations. Art is another way I bring my ideas to life.
 
@@ -38,7 +38,7 @@ When I'm not coding, making music, or playing basketball, I love to draw and bri
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oc_tripp/)
 
-![GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Cool GIF](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 
 <!--
