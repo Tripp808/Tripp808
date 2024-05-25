@@ -23,10 +23,10 @@ I'm a **Front-End Developer** currently exploring and on my way to specializing 
 -  [Indie-Slide Music Analytics prototype app][(https://github.com/Tripp808/Indie-Slide-webapp)]: Prototype Music analytics app built with React, Material UI, firebase for authentication ... to monitor my streaming and royalties across multiple music DSP's including Spotify, Apple Music, YouTube. This ensures fair recompense for all my artistic work. It isn't complete yet but looking good so far.
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Tripp808's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tripp808&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tripp808&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tripp808&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Tripp808&theme=onedark)
 
 ### 🎵 Music
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxSOEvKtcbEzrCMUft-_fGg)
