@@ -1,4 +1,4 @@
-## Hi there, i'm Oche AKA Tripp 👋
+## Hi there, I'm Oche AKA Tripp 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/Tripp808?style=social)
 
@@ -18,7 +18,8 @@ I'm a **Front-End Developer** currently exploring and on my way to specializing 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Projects:
-- [Principal Component Analysis][(https://github.com/Tripp808/Project-Plotting---Matplotlib-Seaborn-Histograms-and-Boxplots)]: The most recent ASC23 considered four major systems-based tracks with a view to providing region-focused contributions to inform the global stocktake among them Cities, urban and rural settlements, infrastructure, and transport. I used matplotlib library and seaborn to create diagrams that visualize the relationship between various features (columns) and interpret the diagrams.
+- [Project Plotting - Matplotlib Seaborn, Histograms and Boxplots][(https://github.com/Tripp808/Project-Plotting---Matplotlib-Seaborn-Histograms-and-Boxplots)]: The most recent ASC23 considered four major systems-based tracks with a view to providing region-focused contributions to inform the global stocktake among them Cities, urban and rural settlements, infrastructure, and transport. I used matplotlib library and seaborn to create diagrams that visualize the relationship between various features (columns) and interpret the diagrams.
+- [Principle Component Analysis][(https://github.com/Tripp808/Principal-Component-Analysis)]: This project gives insight into the application of Advanced Linear algebra specifically Eigen values and Eigen vectors as well as making use of multivariate probability topics under covariance. The goal of PCA is to extract information while reducing the number of features from a dataset by identifying which existing features relate to another. The crux of the algorithm is trying to determine the relationship between existing features, called principal components, and then quantifying how relevant these principal components are. The principal components are used to transform the high dimensional data to lower dimensional data while preserving as much information. For a principal component to be relevant, it needs to capture information about the features. We can determine the relationships between features using covariance.
 -  [Static Consultancy website for client][(https://github.com/Tripp808/Konnect_africa-website)]: Built a static consultancy website for a friend using HTML, CSS and Vanilla JS.
 -  [Indie-Slide Music Analytics prototype app][(https://github.com/Tripp808/Indie-Slide-webapp)]: Prototype Music analytics app built with React, Material UI, firebase for authentication ... to monitor my streaming and royalties across multiple music DSP's including Spotify, Apple Music, YouTube. This ensures fair recompense for all my artistic work. It isn't complete yet but looking good so far.
 
