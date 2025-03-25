@@ -1,27 +1,23 @@
-## Hi there, I'm Oche AKA Tripp 👋
+## Hi, I'm Oche AKA Tripp 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/Tripp808?style=social)
 
-I'm a **Front-End Developer** currently exploring and on my way to specializing in **Machine Learning and AI Software Engineering**. I enjoy creating visually appealing and user-friendly interfaces, I'm on a journey to combine my love for front-end development with the power of artificial intelligence.
-
-### 🌟 About Me
-- 🎵 **Musician and Producer**: I create music that connects with the soul. Check out my music on [YouTube](https://www.youtube.com/channel/UCxSOEvKtcbEzrCMUft-_fGg).
-- 🏀 **Basketball Enthusiast**: When I'm not coding, i'm hitting jumpers and snatching ankles on the basketball court. haha
-- 🎨 **Illustrator**: I express my creativity through drawing illustrations. Art is another way I bring my ideas to life.
+I’m a Software Engineer with a focus on Data Science and Machine Learning, passionate about leveraging AI to drive business growth and solve real-world problems. I specialize in Python, SQL, Machine Learning, computer vision, and NLP, with experience in consumer analytics, market research, and strategic decision-making.
 
 ### 🚀 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Projects:
-- [Project Plotting - Matplotlib Seaborn, Histograms and Boxplots][(https://github.com/Tripp808/Project-Plotting---Matplotlib-Seaborn-Histograms-and-Boxplots)]: The most recent ASC23 considered four major systems-based tracks with a view to providing region-focused contributions to inform the global stocktake among them Cities, urban and rural settlements, infrastructure, and transport. I used matplotlib library and seaborn to create diagrams that visualize the relationship between various features (columns) and interpret the diagrams.
-- [Principle Component Analysis][(https://github.com/Tripp808/Principal-Component-Analysis)]: This project gives insight into the application of Advanced Linear algebra specifically Eigen values and Eigen vectors as well as making use of multivariate probability topics under covariance. The goal of PCA is to extract information while reducing the number of features from a dataset by identifying which existing features relate to another. The crux of the algorithm is trying to determine the relationship between existing features, called principal components, and then quantifying how relevant these principal components are. The principal components are used to transform the high dimensional data to lower dimensional data while preserving as much information. For a principal component to be relevant, it needs to capture information about the features. We can determine the relationships between features using covariance.
--  [Static Consultancy website for client][(https://github.com/Tripp808/Konnect_africa-website)]: Built a static consultancy website for a friend using HTML, CSS and Vanilla JS.
--  [Indie-Slide Music Analytics prototype app][(https://github.com/Tripp808/Indie-Slide-webapp)]: Prototype Music analytics app built with React, Material UI, firebase for authentication ... to monitor my streaming and royalties across multiple music DSP's including Spotify, Apple Music, YouTube. This ensures fair recompense for all my artistic work. It isn't complete yet but looking good so far.
+- [MediChatbot][(https://huggingface.co/OcheAnkeli/Medic-chatbot)]: Project Overview: Designed and developed Medichatbot, an AI-powered chatbot that provides real-time, accurate medical 
+advice and assistance. Deployed on Hugging Face, it leverages Natural Language Processing (NLP) to offer step-by-step 
+medical reasoning, improving access to healthcare information in underserved areas. 
+• Technologies Used: DeepSeek R1 Model, Hugging Face Transformers, Python 
+- [OpenVision][(https://resplendent-cocada-62112a.netlify.app/)]: • Project Overview: Led the development of OpenVision, a cutting-edge computer vision project aimed at improving 
+accessibility for visually impaired individuals in Africa. Trained with a context relevant African dataset, the system converts 
+visual data into actionable insights using deep learning models, providing verbal descriptions of images to enhance navigation 
+and interaction with the environment. Support for low-resource languages included such as Swahili. 
+• Technologies Used: TensorFlow, OpenCV, Keras 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tripp808&color=blue)
 ### 📈 GitHub Stats
@@ -30,11 +26,6 @@ I'm a **Front-End Developer** currently exploring and on my way to specializing 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tripp808&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tripp808&theme=onedark)
 
-### 🎵 Music
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxSOEvKtcbEzrCMUft-_fGg)
-
-### ⚡ Fun Fact
-When I'm not coding, making music, or playing basketball, I love to draw and bring my illustrations to life.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
