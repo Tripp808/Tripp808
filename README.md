@@ -16,7 +16,7 @@ I’m a Software Engineer with a focus on Data Science and Machine Learning, pas
   **Tech:** DeepSeek R1, Hugging Face Transformers, Python  
 
 - [OpenVision](https://resplendent-cocada-62112a.netlify.app/): Computer vision tool designed to assist visually impaired users in Africa. Trained on an African dataset to provide verbal image descriptions, including support for Swahili.  
-  **Tech:** TensorFlow, OpenCV, Keras  
+  **Tech:** TensorFlow, OpenCV, YOLOv8, Keras  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tripp808&color=blue)
