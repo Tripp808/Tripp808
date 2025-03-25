@@ -6,18 +6,18 @@ I’m a Software Engineer with a focus on Data Science and Machine Learning, pas
 
 ### 🚀 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### Projects:
-- [MediChatbot][(https://huggingface.co/OcheAnkeli/Medic-chatbot)]: Project Overview: Designed and developed Medichatbot, an AI-powered chatbot that provides real-time, accurate medical 
-advice and assistance. Deployed on Hugging Face, it leverages Natural Language Processing (NLP) to offer step-by-step 
-medical reasoning, improving access to healthcare information in underserved areas. 
-• Technologies Used: DeepSeek R1 Model, Hugging Face Transformers, Python 
-- [OpenVision][(https://resplendent-cocada-62112a.netlify.app/)]: • Project Overview: Led the development of OpenVision, a cutting-edge computer vision project aimed at improving 
-accessibility for visually impaired individuals in Africa. Trained with a context relevant African dataset, the system converts 
-visual data into actionable insights using deep learning models, providing verbal descriptions of images to enhance navigation 
-and interaction with the environment. Support for low-resource languages included such as Swahili. 
-• Technologies Used: TensorFlow, OpenCV, Keras 
+### 🚀 Projects  
+- [MediChatbot](https://huggingface.co/OcheAnkeli/Medic-chatbot): AI-powered chatbot providing real-time medical advice using NLP. Deployed on Hugging Face to enhance healthcare access in underserved areas.  
+  **Tech:** DeepSeek R1, Hugging Face Transformers, Python  
+
+- [OpenVision](https://resplendent-cocada-62112a.netlify.app/): Computer vision tool designed to assist visually impaired users in Africa. Trained on an African dataset to provide verbal image descriptions, including support for Swahili.  
+  **Tech:** TensorFlow, OpenCV, Keras  
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tripp808&color=blue)
 ### 📈 GitHub Stats
