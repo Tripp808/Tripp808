@@ -6,7 +6,7 @@ Machine Learning Engineer specializing in NLP, speech recognition, and AI ethics
 
 **Presentations:** NeurIPS (Upcoming Lightning Talk, Dec 2025), Deep Learning Indaba, Microsoft Seminars
 
-### 🚀 Technologies & Tools
+### Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -21,7 +21,7 @@ Machine Learning Engineer specializing in NLP, speech recognition, and AI ethics
 - AI ethics and responsible AI deployment
 - Localization of AI systems for African contexts
 
-### 🚀 Projects
+### Projects
 
 - **[Nakala AI](https://nakala.ai/)**: Multilingual transcription tool supporting low-resource African languages (Wolof, Hausa, Yoruba) for maternal health applications  
 - **[AfriStereo](https://github.com/YUX-Cultural-AI-Lab/Afri-Stereo)**: Benchmark dataset for bias evaluation in LLMs across African contexts  
@@ -34,7 +34,7 @@ Machine Learning Engineer specializing in NLP, speech recognition, and AI ethics
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](your-scholar-link)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/OcheAnkeli)
 
-📫 o.ankeli@alustudent.com
+📫 o.ankeli@alustudent.com | ocheankeli99@gmail.com
 
 ---
 
