@@ -31,7 +31,7 @@ Machine Learning Engineer specializing in NLP, speech recognition, and AI ethics
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oche-ankeli-71001a9b/)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](your-scholar-link)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=XAlPAEsAAAAJ)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/OcheAnkeli)
 
 📫 o.ankeli@alustudent.com | ocheankeli99@gmail.com
